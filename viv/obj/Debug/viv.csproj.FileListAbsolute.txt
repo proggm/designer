@@ -1,0 +1,8 @@
+E:\проекты\viv\viv\bin\Debug\viv.exe.config
+E:\проекты\viv\viv\bin\Debug\viv.exe
+E:\проекты\viv\viv\bin\Debug\viv.pdb
+E:\проекты\viv\viv\obj\Debug\viv.csproj.AssemblyReference.cache
+E:\проекты\viv\viv\obj\Debug\viv.csproj.SuggestedBindingRedirects.cache
+E:\проекты\viv\viv\obj\Debug\viv.csproj.CoreCompileInputs.cache
+E:\проекты\viv\viv\obj\Debug\viv.exe
+E:\проекты\viv\viv\obj\Debug\viv.pdb
